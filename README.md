@@ -110,7 +110,7 @@ If not using Makefile, compile manually with:
 
 ### **Contact**
 For questions or suggestions, feel free to contact:  
-Email: gwhuang24@gmail.com
+Email: celalalyaprak@gmail.com
 
 ### **Conclusion**
 Thank you for using the Veterinary Clinic Management System! We hope this system helps you effectively manage patient records and clinic appointments. If you have any feedback or suggestions, please don’t hesitate to reach out.
